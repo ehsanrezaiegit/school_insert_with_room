@@ -26,22 +26,6 @@ Library** in Android development.
 
 ---
 
-## 📸 Screenshots
-
-<div align="center">
-<table>
-<tr>
-<td><img src="screenshots/add_student.png" width="200" /></td>
-<td><img src="screenshots/student_list.png" width="200" /></td>
-</tr>
-<tr>
-<td align="center"><b>Add Student</b></td>
-<td align="center"><b>Student List</b></td>
-</tr>
-</table>
-</div>
-
----
 
 ## ⚡ Features
 
