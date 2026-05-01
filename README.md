@@ -83,10 +83,6 @@ app/src/main/res/layout/
 ├── activity_main.xml # Add student UI
 └── activity_user_list.xml # Student list UI
 
-text
-
-
----
 
 ## 📋 Database Schema
 
